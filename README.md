@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Till and I'm an aspiring Software Developer based in Germany.
+
 
 <!--
 **tborckmann/tborckmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
