@@ -12,8 +12,8 @@ I finished school in summer 2025 and will be enrolling in university in **summer
 Here are some of my favorite projects that reflect what I enjoy working on:
 
 ### **Bot.exe** &#8203; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-A multifunctional Discord bot built with Python to explore API communication, asynchronous workflows, and automation.  
-Instead of focusing on a single purpose, the bot acts as a playground for features such as command handling, chat utilities, and basic moderation tools.
+A multifunctional Discord bot built with Python, developed to be fun and funtional.
+Instead of focusing on a single purpose, the bot acts as a development playground for features such as command handling, chat utilities, and basic moderation tools.
 
 **Skills:** API usage, async programming, clean command structure, automation logic, UX
 
@@ -21,7 +21,7 @@ Instead of focusing on a single purpose, the bot acts as a playground for featur
 
 ### **Ludo-3D-Unity** &#8203; ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) 
 A full 3D remake of the classic board game *Ludo*, created in Unity.
-The project challenged me to combine game logic, 3D interaction, and visual clarity while keeping gameplay close to the original experience. It features turn-based logic, smooth movement, UI elements, and basic CPU players.
+The project challenged me to combine game logic, 3D interaction, and implementing a minimal and concise UI while keeping the core gameplay close to the original experience. It features a turn-based logic, smooth movement, UI elements, and basic CPU players.
 
 **Skills:** game architecture, 3D object interaction, UI design, state handling, simple AI behavior
 
@@ -29,7 +29,7 @@ The project challenged me to combine game logic, 3D interaction, and visual clar
 
 ### **Sorting-Visualization** &#8203; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 A Java desktop application that visualizes how different sorting algorithms operate internally.
-Instead of just printing results, the project focuses on showing *why* algorithms behave differently - in speed, structure, and movement patterns. Ideal for both learning and teaching.
+This applications shows how sorting alorithms behave - in speed, structure and visual patterns.
 
 **Skills:** algorithm implementation, data visualization, UI programming
 
