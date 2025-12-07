@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I’m an apiring developer from Germany, currently exploring the world of software engineering.
+I’m an aspiring developer from Germany, currently exploring the world of software engineering.
 I finished school in summer 2025 and will be enrolling in university in **summer 2026** to study **Wirtschaftsinformatik (Business Informatics)**. 
 
 &#8203;
