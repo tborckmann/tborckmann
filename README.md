@@ -7,7 +7,7 @@ I finished school in summer 2025 and will be enrolling in university in **summer
 
 &#8203;
 
-## ⭐ Featured Projects
+## Featured Projects
 
 Here are some of my favorite projects that reflect what I enjoy working on:
 
@@ -35,7 +35,7 @@ Instead of just printing results, the project focuses on showing *why* algorithm
 
 &#8203;
 
-## 🚀 What I’m Interested In & What’s Next
+## What I’m Interested In & What’s Next
 
 I’m continuously improving my programming skills while diving deeper into **cyber security** and **application development**.
 I’m will continue to build more projects - ideally ones that mix interesting logic, real-world utility, and maybe even security-relevant functionality.
