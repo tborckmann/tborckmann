@@ -15,7 +15,7 @@ Here are some of my favorite projects that reflect what I enjoy working on:
 A multifunctional Discord bot built with Python, developed to be fun and funtional.
 Instead of focusing on a single purpose, the bot acts as a development playground for features such as command handling, chat utilities, and basic moderation tools.
 
-**Skills:** API usage, async programming, clean command structure, automation logic, UX
+**Skills:** API usage, async programming, clean command structure, automation logic, UX, OOP
 
 ---
 
@@ -31,7 +31,7 @@ The project challenged me to combine game logic, 3D interaction, and implementin
 A Java desktop application that visualizes how different sorting algorithms operate internally.
 This applications shows how sorting alorithms behave - in speed, structure and visual patterns.
 
-**Skills:** algorithm implementation, data visualization, UI programming
+**Skills:** algorithm implementation, data visualization, UI programming, OOP
 
 &#8203;
 
